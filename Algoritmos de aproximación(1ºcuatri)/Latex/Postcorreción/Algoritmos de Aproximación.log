@@ -1,0 +1,613 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6730 64-bit) (preloaded format=pdflatex 2018.7.19)  12 MAR 2019 11:22
+entering extended mode
+**"./Algoritmos de Aproximación.tex"
+("Algoritmos de Aproximación.tex"
+LaTeX2e <2018-04-01> patch level 5
+("C:\Users\Daniel\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\article.cls"
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+("C:\Users\Daniel\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\size10.clo"
+File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Users\Daniel\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\babel.sty
+"
+Package: babel 2018/06/05 3.22 The Babel package
+
+("C:\Users\Daniel\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\switch.de
+f"
+File: switch.def 2018/06/05 3.22 Babel switching mechanism
+)
+*************************************
+* Local config file bblopts.cfg used
+*
+("C:\Users\Daniel\AppData\Local\Programs\MiKTeX 2.9\tex\latex\arabi\bblopts.cfg
+"
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+("C:\Users\Daniel\AppData\Local\Programs\MiKTeX 2.9\tex\latex\babel-spanish\spa
+nish.ldf"
+Language: spanish.ldf 2016/03/03 v5.0p Spanish support from the babel system
+
+("C:\Users\Daniel\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\babel.def
+"
+File: babel.def 2018/06/05 3.22 Babel common definitions
+\babel@savecnt=\count88
+\U@D=\dimen103
+
+("C:\Users\Daniel\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\txtbabel.
+def")
+\bbl@dirlevel=\count89
+)
+\es@quottoks=\toks14
+\es@quotdepth=\count90
+Package babel Info: Making " an active character on input line 561.
+Package babel Info: Making . an active character on input line 662.
+Package babel Info: Making < an active character on input line 707.
+Package babel Info: Making > an active character on input line 707.
+))
+("C:\Users\Daniel\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\inputenc.sty
+"
+Package: inputenc 2018/04/06 v1.3b Input encoding file
+\inpenc@prehook=\toks15
+\inpenc@posthook=\toks16
+)
+("C:\Users\Daniel\AppData\Local\Programs\MiKTeX 2.9\tex\latex\algorithms\algori
+thm.sty"
+Package: algorithm 2009/08/24 v0.1 Document Style `algorithm' - floating enviro
+nment
+
+("C:\Users\Daniel\AppData\Local\Programs\MiKTeX 2.9\tex\latex\float\float.sty"
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count91
+\float@exts=\toks17
+\float@box=\box26
+\@float@everytoks=\toks18
+\@floatcapt=\box27
+) ("C:\Users\Daniel\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\ifthen.sty
+"
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\@float@every@algorithm=\toks19
+\c@algorithm=\count92
+)
+("C:\Users\Daniel\AppData\Local\Programs\MiKTeX 2.9\tex\latex\algorithms\algori
+thmic.sty"
+Package: algorithmic 2009/08/24 v0.1 Document Style `algorithmic'
+
+("C:\Users\Daniel\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\keyval.s
+ty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks20
+)
+\c@ALC@unique=\count93
+\c@ALC@line=\count94
+\c@ALC@rem=\count95
+\c@ALC@depth=\count96
+\ALC@tlm=\skip43
+\algorithmicindent=\skip44
+)
+("C:\Users\Daniel\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amscls\amsthm.sty
+"
+Package: amsthm 2017/10/31 v2.20.4
+\thm@style=\toks21
+\thm@bodyfont=\toks22
+\thm@headfont=\toks23
+\thm@notefont=\toks24
+\thm@headpunct=\toks25
+\thm@preskip=\skip45
+\thm@postskip=\skip46
+\thm@headsep=\skip47
+\dth@everypar=\toks26
+)
+("C:\Users\Daniel\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsmath.s
+ty"
+Package: amsmath 2017/09/02 v2.17a AMS math features
+\@mathmargin=\skip48
+
+For additional information on amsmath, use the `?' option.
+
+("C:\Users\Daniel\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amstext.s
+ty"
+Package: amstext 2000/06/29 v2.01 AMS text
+
+("C:\Users\Daniel\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsgen.st
+y"
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks27
+\ex@=\dimen104
+))
+("C:\Users\Daniel\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsbsy.st
+y"
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen105
+)
+("C:\Users\Daniel\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsopn.st
+y"
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count97
+LaTeX Info: Redefining \frac on input line 213.
+\uproot@=\count98
+\leftroot@=\count99
+LaTeX Info: Redefining \overline on input line 375.
+\classnum@=\count100
+\DOTSCASE@=\count101
+LaTeX Info: Redefining \ldots on input line 472.
+LaTeX Info: Redefining \dots on input line 475.
+LaTeX Info: Redefining \cdots on input line 596.
+\Mathstrutbox@=\box28
+\strutbox@=\box29
+\big@size=\dimen106
+LaTeX Font Info:    Redeclaring font encoding OML on input line 712.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
+\macc@depth=\count102
+\c@MaxMatrixCols=\count103
+\dotsspace@=\muskip10
+\c@parentequation=\count104
+\dspbrk@lvl=\count105
+\tag@help=\toks28
+\row@=\count106
+\column@=\count107
+\maxfields@=\count108
+\andhelp@=\toks29
+\eqnshift@=\dimen107
+\alignsep@=\dimen108
+\tagshift@=\dimen109
+\tagwidth@=\dimen110
+\totwidth@=\dimen111
+\lineht@=\dimen112
+\@envbody=\toks30
+\multlinegap=\skip49
+\multlinetaggap=\skip50
+\mathdisplay@stack=\toks31
+LaTeX Info: Redefining \[ on input line 2817.
+LaTeX Info: Redefining \] on input line 2818.
+)
+("C:\Users\Daniel\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyphenat\hyphenat
+.sty"
+Package: hyphenat 2009/09/02 v2.3c hyphenation utilities
+\langwohyphens=\language76
+LaTeX Info: Redefining \_ on input line 43.
+)
+("C:\Users\Daniel\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphicx
+.sty"
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\Daniel\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphics
+.sty"
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\Daniel\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\trig.sty
+"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Users\Daniel\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\grap
+hics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+("C:\Users\Daniel\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-def\pdft
+ex.def"
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen113
+\Gin@req@width=\dimen114
+) ("Algoritmos de Aproximación.aux"
+LaTeX Info: Redefining \. on input line 6.
+LaTeX Info: Redefining \% on input line 6.
+)
+\openout1 = `"Algoritmos de Aproximación.aux"'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Info: Redefining \. on input line 19.
+LaTeX Info: Redefining \% on input line 19.
+
+("C:\Users\Daniel\AppData\Local\Programs\MiKTeX 2.9\tex\context\base\supp-pdf.m
+kii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count109
+\scratchdimen=\dimen115
+\scratchbox=\box30
+\nofMPsegments=\count110
+\nofMParguments=\count111
+\everyMPshowfont=\toks32
+\MPscratchCnt=\count112
+\MPscratchDim=\dimen116
+\MPnumerator=\count113
+\makeMPintoPDFobject=\count114
+\everyMPtoPDFconversion=\toks33
+)
+("C:\Users\Daniel\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\epstopdf
+-base.sty"
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+("C:\Users\Daniel\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\infwar
+err.sty"
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+("C:\Users\Daniel\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\grfext.s
+ty"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+("C:\Users\Daniel\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\kvdefi
+nekeys.sty"
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+
+("C:\Users\Daniel\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ltxcmd
+s.sty"
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)))
+("C:\Users\Daniel\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\kvoption
+s.sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+("C:\Users\Daniel\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\kvsetk
+eys.sty"
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+("C:\Users\Daniel\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\etexcm
+ds.sty"
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+
+("C:\Users\Daniel\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifluat
+ex.sty"
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+("C:\Users\Daniel\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\pdftex
+cmds.sty"
+Package: pdftexcmds 2018/01/30 v0.27 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+("C:\Users\Daniel\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.
+sty"
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+)
+\c@thr=\count115
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--39
+
+ []
+
+
+Underfull \hbox (badness 5203) in paragraph at lines 40--40
+[]\OT1/cmr/bx/n/12 Radio de com-por-ta-mien-to pa-ra al-go-rit-mos de
+ []
+
+
+Underfull \hbox (badness 1910) in paragraph at lines 41--43
+[]\OT1/cmr/m/n/10 Decimos que un al-go-rit-mo tie-ne, pa-ra un pro-ble-ma, un \
+OT1/cmr/bx/n/10 ra-dio de
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 48--49
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--51
+
+ []
+
+[1
+
+{C:/Users/Daniel/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+Underfull \hbox (badness 5288) in paragraph at lines 52--53
+[]\OT1/cmr/m/n/10 Decimos que un es-que-ma de apro-xi-ma-cion es un \OT1/cmr/b
+x/n/10 es-que-ma de
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 56--57
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 58--59
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 76--77
+
+ []
+
+<vertex-cover.jpeg, id=13, 1415.2875pt x 959.585pt>
+File: vertex-cover.jpeg Graphic file (type jpg)
+<use vertex-cover.jpeg>
+Package pdftex.def Info: vertex-cover.jpeg  used on input line 80.
+(pdftex.def)             Requested size: 241.49895pt x 163.72762pt.
+[2]
+Underfull \hbox (badness 10000) in paragraph at lines 85--86
+\OT1/cmr/bx/n/10 Teorema 2.1. \OT1/cmr/m/it/10 APPROX-VERTEX-COVER es un 2-algo
+ritmo de
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 99--100
+
+ []
+
+[3 <./vertex-cover.jpeg>]
+<TSP.jpeg, id=23, 1343.0175pt x 895.345pt>
+File: TSP.jpeg Graphic file (type jpg)
+<use TSP.jpeg>
+Package pdftex.def Info: TSP.jpeg  used on input line 115.
+(pdftex.def)             Requested size: 241.49895pt x 160.9912pt.
+ [4 <./TSP.jpeg>]
+Underfull \hbox (badness 10000) in paragraph at lines 142--143
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 144--145
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 146--147
+
+ []
+
+[5]
+Underfull \hbox (badness 10000) in paragraph at lines 148--149
+
+ []
+
+<set-cover.jpeg, id=30, 1604.99625pt x 1255.69125pt>
+File: set-cover.jpeg Graphic file (type jpg)
+<use set-cover.jpeg>
+Package pdftex.def Info: set-cover.jpeg  used on input line 166.
+(pdftex.def)             Requested size: 241.49895pt x 188.93953pt.
+
+Underfull \hbox (badness 1270) in paragraph at lines 171--172
+\OT1/cmr/m/n/10 se pue-de ha-cer una im-ple-men-ta-cion sim-ple de es-te al-go
+-rit-mo de or-den
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 171--172
+
+ []
+
+[6 <./set-cover.jpeg>]
+Underfull \hbox (badness 10000) in paragraph at lines 184--185
+
+ []
+
+[7]
+Underfull \hbox (badness 10000) in paragraph at lines 201--202
+
+ []
+
+
+Underfull \hbox (badness 1297) in paragraph at lines 203--204
+\OT1/cmr/m/n/10 usan-do pro-gra-ma-cion li-neal. Des-pues `re-don-dea-re-mos'
+ es-ta so-lu-cion pa-ra
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 203--204
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 205--206
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 219--220
+
+ []
+
+[8]
+Underfull \hbox (badness 10000) in paragraph at lines 235--236
+
+ []
+
+
+! Package inputenc Error: Unicode character ´ (U+B4)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.251 ...o nos referíamos cuando decíamos que ´
+                                                  redondeábamos' la soluci�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 251--252
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 254--255
+\OT1/cmr/bx/n/10 Teorema 5.2. \OT1/cmr/m/it/10 APPROX-MIN-WEIGHT-VC es un 2-alg
+oritmo de
+ []
+
+
+Underfull \hbox (badness 2600) in paragraph at lines 254--255
+\OT1/cmr/m/it/10 apro-xi-ma-cion de tiem-po po-linomi-co pa-ra el pro-ble-ma 
+del re-cu-bri-mien-to
+ []
+
+
+Underfull \hbox (badness 1205) in paragraph at lines 257--262
+[]\OT1/cmr/m/n/10 Hay al-go-rit-mos que re-suel-ven sis-te-mas li-nea-les en ti
+em-po
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 257--262
+
+ []
+
+[9]
+Underfull \hbox (badness 10000) in paragraph at lines 277--278
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 282--283
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 284--285
+
+ []
+
+[10]
+Underfull \hbox (badness 10000) in paragraph at lines 299--299
+[]\OT1/cmr/bx/n/12 Un es-que-ma de apro-xi-ma-cion com-ple-ta-men-te
+ []
+
+
+Underfull \hbox (badness 1184) in paragraph at lines 300--301
+[]\OT1/cmr/m/n/10 A par-tir de la so-lu-cion ex-po-nen-cial po-dre-mos crear u
+n es-que-ma de
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 300--301
+
+ []
+
+
+Underfull \hbox (badness 2680) in paragraph at lines 305--307
+\OT1/cmr/m/n/10 El al-go-rit-mo de sim-pli-fi-ca-cion es li-neal en el nume-r
+o de ob-je-tos de
+ []
+
+
+Underfull \hbox (badness 2277) in paragraph at lines 305--307
+\OT1/cmr/m/n/10 la lis-ta L. Se ex-po-ne a con-ti-nua-cion un ejem-plo: da-do 
+$\OML/cmm/m/it/10  \OT1/cmr/m/n/10 = 0[]1$ y
+ []
+
+
+Underfull \hbox (badness 4846) in paragraph at lines 305--307
+\OML/cmm/m/it/10 L \OT1/cmr/m/n/10 = \OML/cmm/m/it/10 < \OT1/cmr/m/n/10 10\OML/
+cmm/m/it/10 ; \OT1/cmr/m/n/10 11\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 12\OML/cmm/m
+/it/10 ; \OT1/cmr/m/n/10 15\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 20\OML/cmm/m/it/1
+0 ; \OT1/cmr/m/n/10 21\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 22\OML/cmm/m/it/10 ; \
+OT1/cmr/m/n/10 23\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 24\OML/cmm/m/it/10 ; \OT1/c
+mr/m/n/10 29 \OML/cmm/m/it/10 >$\OT1/cmr/m/n/10 , la lis-ta sim-pli-fi-ca-da es
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 305--307
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 308--309
+
+ []
+
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 318.
+
+("C:\Users\Daniel\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\omscmr.fd"
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 318.
+
+[11]
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.342 
+      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[12] ("Algoritmos de Aproximación.aux"
+LaTeX Info: Redefining \. on input line 6.
+LaTeX Info: Redefining \% on input line 6.
+) ) 
+Here is how much of TeX's memory you used:
+ 3406 strings out of 492973
+ 47655 string characters out of 3126249
+ 127182 words of memory out of 3000000
+ 7215 multiletter control sequences out of 15000+200000
+ 9670 words of font info for 35 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 41i,8n,31p,617b,525s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Users/Daniel/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfon
+ts/cm/cmbx10.pfb><C:/Users/Daniel/AppData/Local/Programs/MiKTeX 2.9/fonts/type1
+/public/amsfonts/cm/cmbx12.pfb><C:/Users/Daniel/AppData/Local/Programs/MiKTeX 2
+.9/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/Daniel/AppData/Local/Pr
+ograms/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/Daniel/Ap
+pData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/U
+sers/Daniel/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cm
+mi7.pfb><C:/Users/Daniel/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/a
+msfonts/cm/cmr10.pfb><C:/Users/Daniel/AppData/Local/Programs/MiKTeX 2.9/fonts/t
+ype1/public/amsfonts/cm/cmr12.pfb><C:/Users/Daniel/AppData/Local/Programs/MiKTe
+X 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/Daniel/AppData/Local/P
+rograms/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/Daniel/App
+Data/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/User
+s/Daniel/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy1
+0.pfb><C:/Users/Daniel/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/ams
+fonts/cm/cmsy7.pfb><C:/Users/Daniel/AppData/Local/Programs/MiKTeX 2.9/fonts/typ
+e1/public/amsfonts/cm/cmti10.pfb>
+Output written on "Algoritmos de Aproximación.pdf" (12 pages, 445823 bytes).
+PDF statistics:
+ 100 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 16 words of extra memory for PDF output out of 10000 (max. 10000000)
+

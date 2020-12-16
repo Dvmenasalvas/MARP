@@ -1,0 +1,12 @@
+\BOOKMARK [1][-]{section.1}{Introducci\363n}{}% 1
+\BOOKMARK [2][-]{subsection.1.1}{Motivaci\363n para el estudio del algoritmo}{section.1}% 2
+\BOOKMARK [1][-]{section.2}{Descripci\363n no formal}{}% 3
+\BOOKMARK [2][-]{subsection.2.1}{Ejemplo del algoritmo de Boyer-Moore}{section.2}% 4
+\BOOKMARK [1][-]{section.3}{El algoritmo}{}% 5
+\BOOKMARK [2][-]{subsection.3.1}{Tabla del buen sufijo \(GST\)}{section.3}% 6
+\BOOKMARK [2][-]{subsection.3.2}{Tabla del mal car\341cter \(BCT\)}{section.3}% 7
+\BOOKMARK [2][-]{subsection.3.3}{Pseudoc\363digo}{section.3}% 8
+\BOOKMARK [1][-]{section.4}{Implementaci\363n}{}% 9
+\BOOKMARK [1][-]{section.5}{Evidencia emp\355rica}{}% 10
+\BOOKMARK [1][-]{section.6}{Rendimiento del algoritmo}{}% 11
+\BOOKMARK [1][-]{section.7}{Variantes}{}% 12

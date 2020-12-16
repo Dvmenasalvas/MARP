@@ -1,0 +1,65 @@
+\documentclass{article}
+
+\usepackage[spanish]{babel}
+\usepackage[utf8]{inputenc} % Idioma, tildes y ñ. Hace falta guardar como UTF-8
+
+\usepackage{listings} %Poner código
+
+\usepackage[table,xcdraw]{xcolor} %Color de las tablas
+
+\usepackage{algorithm}	%Pseudocódigo
+\usepackage{algorithmic}
+
+\usepackage{ulem}%Tachar palabras
+
+\usepackage{hyperref} %Links
+
+\usepackage{amsmath} %Alinear ecuaciones(o ejemplos de cadenas de caracteres)
+
+\usepackage[none]{hyphenat}	%No partir palabras al final de la linea
+
+\usepackage{graphicx}	%Imágenes
+
+\usepackage{float}	%Respetar orden de imágenes y algoritmos
+
+\begin{document}
+\sloppy
+\title{Algoritmo de Boyer-Moore para comparar cadenas}
+
+\author{Daniel Valverde Menasalvas}
+
+\maketitle
+
+
+\input{Introduccion.tex}
+\input{DescripcionNoFormal.tex}
+\input{ElAlgoritmo.tex}
+
+\section{Implementación}
+Se muestra a continuación una implementación del algoritmo de Boyer-Moore en C++:
+\lstinputlisting[language=C++]{BM.cpp}
+
+\input{EvidenciaEmpirica.tex}
+\input{RendimientoYVariantes.tex}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+
+\begin{thebibliography}{x}
+\bibitem{articulo1} 
+Boyer, R.S. y Moore, J.S. (1977). A Fast String Searching Algorithm. \textit{Communications of the ACM,20}(10), 762-772.
+
+\bibitem{articulo2} 
+Cole, R. (1991). Tight bounds on the complexity of the Boyer-Moore algorithm. \textit{Proceedings of the 2nd Annual ACM-SIAM Symposium on Discrete Algorithms}. 224-233.
+
+\bibitem{wiki} 
+Algoritmo de búsqueda de cadenas Boyer-Moore. Recuperado de: \url{https://es.wikipedia.org/wiki/Algoritmo_de_búsqueda_de_cadenas_Boyer-Moore#Rendimiento_del_algoritmo_de_búsqueda_de_cadenas_Boyer-Moore}
+
+\bibitem{dibus}
+Boyer-Moore algorithm. Recuperado de: \url{http://www-igm.univ-mlv.fr/~lecroq/string/node14.html}
+
+
+\end{thebibliography}
+\end{document}

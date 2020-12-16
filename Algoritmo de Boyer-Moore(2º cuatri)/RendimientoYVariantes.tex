@@ -1,0 +1,13 @@
+
+\section{Rendimiento del algoritmo}
+El problema del rendimiento del algoritmo no quedó zanjado en el artículo original publicado por Boyer y Moore (ver \cite{articulo1}). Ellos mostraron que el número de comparaciones no era mayor a $6n$, siendo $n$ el tamaño del texto donde el patrón es buscado. Más tarde, en 1980, se demostró que no era más de $4n$. Finalmente, en septiembre de 1991 Cole publicó un artículo (ver \cite{articulo2}) en el que mostraba que, en el caso peor, el algoritmo necesita aproximadamente $3n$ comparaciones  para encontrar todas las coincidencias, independientemente de si hay alguna o no. \\
+
+Las demostraciones de estos resultados son largas y tediosas, por lo que se ha decidido no incluirlas aquí. Sin embargo, los artículos originales están referenciados al final del texto para que el lector pueda indagar más por su cuenta si así lo desea.
+
+\section{Variantes}
+A pesar de la eficiencia del algoritmo de Boyer-Moore, hay situaciones en las que es preferible utilizar variantes de este, ya sea para mejorar el rendimiento o para simplificar el código. A continuación se mostrarán dos de estas variantes:\\
+
+\begin{itemize}
+	\item \textbf{Algoritmo de Boyer-Moore Turbo}: Esta variante toma una cantidad adicional constante de espacio para completar una búsqueda en $2n$ comparaciones, mejorando el $3n$ del algoritmo normal.
+	\item \textbf{Algoritmo de Boter-Moore-Horspool}: Es una simplificación del algoritmo que omite la GST. Con esta simplificación se requieren, en el caso peor, $nm$ comparaciones.
+\end{itemize}

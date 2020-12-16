@@ -1,0 +1,15 @@
+\section{Introducción}
+\label{sec:introduction}
+El algoritmo de Boyer-Moore para buscar cadenas de caracteres es un algoritmo que se usa como punto de referencia a la hora de resolver problemas prácticos de búsqueda de cadenas de caracteres en textos. Fue desarrollado por Robert S. Boyer y J Strother Moore en 1977. \\
+
+El algoritmo preprocesa el patrón(cadena de caracteres) buscado, pero no el texto sobre el que se va a realizar la búsqueda. Por lo tanto, este algoritmo funciona bien en ocasiones donde o bien el texto es considerablemente más largo que el patrón o bien el patrón sea el mismo para varios textos. Como veremos más adelante, el algoritmo funcionará mejor conforme la longitud del patrón buscado incrementa. La información obtenida en el preprocesamiento es usada por el algoritmo para saltar secciones del texto, consiguiendo así una eficiencia mayor que otros algoritmos con el mismo fin. \\
+
+
+\subsection{Motivación para el estudio del algoritmo}
+Supongamos que $x$ es un string de longitud $m$ y queremos obtener la posición $i$ donde empieza la primera aparición de $x$ en un texto  de longitud $n$ que denotaremos por $y$.\\
+
+El algoritmo obvio mira cada posición de $y$ y comprueba si los siguientes $m$ caracteres coinciden con los caracteres de $x$. Sin embargo, este algoritmo es cuadrático, es decir, en el peor de los casos el número de comparaciones es O($n*m$).Otra opción es preprocesar $x$ en tiempo lineal a $m$ para luego buscar en $y$ inspeccionando cada carácter de $y$ exactamente una vez. Lo que resultaría en un algoritmo lineal en $n$.\\
+
+El algoritmo de Boyer-Moore es 'normalmente sublineal'. Con normalmente sublinear nos referimos a que el valor esperado de caracteres de $y$ examinados es $c*n$, donde $c < 1$ y es más pequeño conforme el tamaño de $m$ incrementa. Hay patrones y textos para los que el algoritmo muestra peores comportamientos, pero es posible demostrar que el algoritmo es lineal en el caso peor.\\
+
+A continuación se dará una descripción no formal del algoritmo a estudiar y se mostrará un ejemplo de su funcionamiento. Luego definiremos formalmente el algoritmo y daremos una implementación de este en C++. Después mostraremos los resultados de un test de ejecución del algoritmo, viendo como se comporta para diferentes alfabetos y longitudes de $x$. Finalmente, hablaremos del rendimiento de este algoritmo y de las variantes a las que ha dado lugar.
